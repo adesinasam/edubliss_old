@@ -6,3 +6,4 @@ tags
 node_modules
 __pycache__
 /edubliss/public/css/styles.css
+/edubliss/public/dist/css/styles.css
